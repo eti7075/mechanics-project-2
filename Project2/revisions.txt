@@ -1,0 +1,55 @@
+commit cd3ae484d965c0608ca5e90af97de5e3eefb892b
+Author: Ethan T Iannicelli <eti7075@cs.rit.edu>
+Date:   Wed Apr 21 20:47:58 2021 -0400
+
+    final try with no output differences, only expected warning is "struct has no members" for
+    the queue header. fixed EFO from input and error outputting
+
+commit a05a4e6368ba21a7baed108729b6ec9dccf43479
+Author: Ethan T Iannicelli <eti7075@cs.rit.edu>
+Date:   Tue Apr 20 21:56:42 2021 -0400
+
+    first sumbit to try, fixed memory issues throughout offspring anf file reading
+
+commit 3323b59044add9fdca9459b826cd18dd50bd4131
+Author: Ethan T Iannicelli <eti7075@cs.rit.edu>
+Date:   Sat Apr 17 14:46:26 2021 -0400
+
+    finished print_tree, tree_size, and worked on main function loop for commands
+
+commit feaaca26ea06ac3a73559929366a7a7d7f798693
+Author: Ethan T Iannicelli <eti7075@cs.rit.edu>
+Date:   Thu Apr 15 15:28:46 2021 -0400
+
+    created the BFS header to use to search in offspring. completed find_node in
+    offspring. documented new header file. appeneded makefile
+
+commit 7782471c461bb29a64ff6e207a15f2f171eaa49c
+Author: Ethan T Iannicelli <eti7075@cs.rit.edu>
+Date:   Wed Mar 24 13:20:33 2021 -0400
+
+    started the input cmd process
+
+commit 0f1bfd192a018096b841c92f3734e589edfa42b2
+Author: Ethan T Iannicelli <eti7075@cs.rit.edu>
+Date:   Wed Mar 24 12:57:49 2021 -0400
+
+    started work on reading input from cmd line
+
+commit edab3dc87ac8d473ee8b85d477d1077ad555ab39
+Author: Ethan T Iannicelli <eti7075@cs.rit.edu>
+Date:   Tue Mar 23 22:11:29 2021 -0400
+
+    fixed the rest of the bugs
+
+commit 5e9827de77c9e04e024b74f3df278a26563b6314
+Author: Ethan T Iannicelli <eti7075@cs.rit.edu>
+Date:   Tue Mar 23 22:04:21 2021 -0400
+
+    fixed a few bugs
+
+commit fad0c3dd1c27695ea669e15b9588aa483ececae8
+Author: Ethan T Iannicelli <eti7075@cs.rit.edu>
+Date:   Tue Mar 23 21:52:07 2021 -0400
+
+    implementent create_node, destroy_tree, and add_child
